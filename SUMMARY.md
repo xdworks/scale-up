@@ -6,4 +6,4 @@
 * [Scaling Product](scaling-product.md)
 * [Building Your Board](building-your-board.md)
 * [The Job of a CFO at a Scaling Company](scaling-company.md)
-* [Growth Panel](growth-panel.md)
+* [Scaling Growth](growth-panel.md)
