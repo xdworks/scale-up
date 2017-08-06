@@ -7,4 +7,3 @@
 * [Building Your Board](building-your-board.md)
 * [The Job of a CFO at a Scaling Company](scaling-company.md)
 * [Scaling Growth](growth-panel.md)
-* [How to Make an Executive Hire](hiring-exec.md)
